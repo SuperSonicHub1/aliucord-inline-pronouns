@@ -1,20 +1,14 @@
-# `Aliucord Plugin Repo Template`
+# Aliucord Inline Pronouns
 
-Template for an [Aliucord](https://github.com/Aliucord) plugin repo
+See the pronouns of people in the MIT 2027 Discord server on Android;
+a port of [my BetterDiscord plugin](https://github.com/SuperSonicHub1/discord-inline-pronouns).
 
-⚠️ Make sure you check "Include all branches" when using this template
+## [Download the Plugin!](https://github.com/SuperSonicHub1/aliucord-inline-pronouns/raw/builds/InlinePronouns.zip)
 
- 
-## Getting started with writing your first plugin
-
-This template includes 2 example plugins demonstrating commands and patches which you can find in the ExamplePlugins folder.
-
-1. Open the root build.gradle.kts, read the comments and replace all the placeholders
-2. Familiarize yourself with the project structure. Most files are commented
-3. Build or deploy your first plugin using:
-   - Windows: `.\gradlew.bat MyFirstCommand:make` or `.\gradlew.bat MyFirstCommand:deployWithAdb`
-   - Linux & Mac: `./gradlew MyFirstCommand:make` or `./gradlew MyFirstCommand:deployWithAdb`
+Click on the link above and move the downloaded ZIP archive to your `Aliucord/plugins` folder.
 
 ## License
 
-Everything in this repo is released into the public domain. You may use it however you want with no conditions whatsoever
+This code is under the [Open Software License 3.0](https://opensource.org/license/osl-3-0-php/)
+as it is a derivative of
+[Juby210's PronounDB plugin](https://github.com/Juby210/Aliucord-plugins/tree/main/PronounDB).
